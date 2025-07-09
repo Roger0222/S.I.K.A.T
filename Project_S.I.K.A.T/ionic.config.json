@@ -1,7 +1,0 @@
-{
-  "name": "Project_S.I.K.A.T",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
-}
